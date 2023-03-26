@@ -1,5 +1,5 @@
 # Simple online chat app + server. 
 
-## React, socket.io, express
+## React, socket.io, express, cors
 
 
